@@ -31,4 +31,15 @@ https://flic.kr/p/3irSi4
 Dirty metal texture:
 https://flic.kr/p/bcCbkX
 
+## Learning Resources
+
+Learn OpenGL
+https://learnopengl.com
+
+Dr. Mike Shah's "introduction to OpenGL" video series
+https://youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox&feature=shared
+
+Fundamentals of Computer Graphics by Marschner and Shirley
+https://www.taylorfrancis.com/books/edit/10.1201/9781003050339/fundamentals-computer-graphics-peter-shirley-steve-marschner
+
 
