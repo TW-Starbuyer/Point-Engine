@@ -1,0 +1,19 @@
+#pragma once
+
+#include <iostream>
+#include <chrono>
+#include <ctime>
+#include <tuple>
+#include <array>
+#include <vector>
+#include <cmath>
+#include <memory>
+#include <thread>
+#include <unordered_map>
+#include <cstdint>
+#include <fstream>
+#include <atomic>
+#include <bitset>
+#include <algorithm>
+#include <functional>
+#include <stack>
