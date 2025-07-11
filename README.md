@@ -14,10 +14,10 @@ Point is a toy 3D game engine created by Taylor Wolff as their undergraduate cap
 * Native C++ scripting.
 
 ## Installation:
-You can install the engine by cloning the repository, there are currently two different versions, the OOP version will be deleted in the future, the only active and ongoing version is the OpenGL-DOD branch.
+You can install the engine by cloning the repository as a zip file and then extracting all of it's contents.
 
 ## Building:
-The engine uses the [CMake](https://cmake.org) build system for portable building across architectures. Currently building for the OpenGL-DOD build has only been tested on an x86 Intel CPU with Windows 11. Other architectures will be tested soon, but no other OS is planned to be supported. To build the project just build the target "Engine.exe". If any packages aren't found automatically then CMake's fetch command will retrieve them.
+The engine uses the [CMake](https://cmake.org) build system for portable building across architectures. Currently building for the engine has only been tested on an x86 Intel CPU with Windows 11. Other architectures will be tested soon, but no other OS is planned to be supported. To build the project just build the target "Point-Engine.exe". If any packages aren't found automatically then CMake's fetch command will retrieve them.
 
 ## Assets
 All distributed assets for the engine are licensed under creative commons licenses:
