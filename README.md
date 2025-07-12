@@ -3,6 +3,9 @@
 ## About:
 Point is a toy 3D game engine created by Taylor Wolff as their undergraduate capstone project.
 
+## Video Tech Demo
+https://www.youtube.com/watch?v=KMD_Tc4hSP4
+
 ## Features:
 * A 3D renderer with [OpenGL](https://www.opengl.org)
 * Window/Input management with [SDL3](https://libsdl.org)
